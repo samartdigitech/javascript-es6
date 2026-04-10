@@ -14,3 +14,6 @@ const employee2 = {
 };
 
 const result2 = employee2.scores.english;
+
+console.log(result1); 
+console.log(result2);
